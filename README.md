@@ -29,31 +29,31 @@
 ## 📊 Visual Dashboard
 
 ### Comparative Stock Performance (2006-2016)
-![Bank Stock Trends](Screenshot%202025-07-10%20015430.png)
+![Bank Stock Trends] ![Screenshot 2025-07-10 015343](https://github.com/user-attachments/assets/ed6a6876-c49a-4945-8a63-d7af62f48d32)
 *All banks show dramatic drops during 2008, with varying recovery patterns*
 
 ---
 
 ### Citigroup 2008 Returns (Crisis Period)
-![C 2008 Returns](Screenshot%202025-07-10%20015408.png)
+![C 2008 Returns] ![Screenshot 2025-07-10 015408](https://github.com/user-attachments/assets/2cb2e2f6-7371-4b04-968d-0c07214869f0)
 *Extreme volatility with frequent >5% daily moves*
 
 ---
 
 ### Morgan Stanley 2015 Returns (Stable Period)
-![MS 2015 Returns](Screenshot%202025-07-10%20015343.png)
+![MS 2015 Returns] ![Screenshot 2025-07-10 015430](https://github.com/user-attachments/assets/52a512c1-c9a5-4064-9ac4-c458d0e1ec03)
 *Normal distribution showing market stabilization*
 
 ---
 
 ### BAC Technical Analysis (2008)
-![BAC 30-day MA](Screenshot%202025-07-10%20015816.png)
+![BAC 30-day MA] ![Screenshot 2025-07-10 015430](https://github.com/user-attachments/assets/4c1dce48-b562-4739-b28a-f07905d1eba2)
 *30-day moving average vs price during crisis*
 
 ---
 
 ### Bank Correlation Matrix
-![Correlation Heatmap](Screenshot%202025-07-10%20015835.png)
+![Correlation Heatmap] ![Screenshot 2025-07-10 015835](https://github.com/user-attachments/assets/a6744e7c-ff87-44df-826a-d17e84da4d23)
 *Goldman Sachs (GS) and Morgan Stanley (MS) show 0.97 correlation*
 
 ## 🔍 Key Findings
@@ -75,9 +75,9 @@
 
 | Technology | Purpose | 
 |------------|---------|
-| ![Python](https://img.icons8.com/color/48/000000/python.png) Python 3.7+ | Core analysis |
-| ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) Pandas | Data manipulation |
-| ![Plotly](https://img.icons8.com/color/48/000000/chart.png) Plotly | Interactive viz |
+| Python 3.7+ | Core analysis |
+| Pandas | Data manipulation |
+| Plotly | Interactive viz |
 | Seaborn | Statistical graphics |
 | pandas-datareader | Market data fetching |
 
