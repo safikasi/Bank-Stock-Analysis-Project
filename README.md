@@ -16,44 +16,39 @@
 - **Technical indicators**: SMA, Bollinger Bands
 - **Correlation heatmaps** for portfolio insights
 
-## 📌 Table of Contents
-1. [Visual Dashboard](#-visual-dashboard)
-2. [Key Findings](#-key-findings)
-3. [Technologies Used](#-technologies-used)
-4. [Installation](#-installation)
-5. [Usage](#-usage)
-6. [Code Walkthrough](#-code-walkthrough)
-7. [Contributing](#-contributing)
-8. [License](#-license)
-
 ## 📊 Visual Dashboard
 
 ### Comparative Stock Performance (2006-2016)
-![Bank Stock Trends] ![Screenshot 2025-07-10 015343](https://github.com/user-attachments/assets/ed6a6876-c49a-4945-8a63-d7af62f48d32)
+![Screenshot 2025-07-10 015343](https://github.com/user-attachments/assets/ed6a6876-c49a-4945-8a63-d7af62f48d32)
+
 *All banks show dramatic drops during 2008, with varying recovery patterns*
 
 ---
 
 ### Citigroup 2008 Returns (Crisis Period)
-![C 2008 Returns] ![Screenshot 2025-07-10 015408](https://github.com/user-attachments/assets/2cb2e2f6-7371-4b04-968d-0c07214869f0)
+![Screenshot 2025-07-10 015408](https://github.com/user-attachments/assets/2cb2e2f6-7371-4b04-968d-0c07214869f0)
+
 *Extreme volatility with frequent >5% daily moves*
 
 ---
 
 ### Morgan Stanley 2015 Returns (Stable Period)
-![MS 2015 Returns] ![Screenshot 2025-07-10 015430](https://github.com/user-attachments/assets/52a512c1-c9a5-4064-9ac4-c458d0e1ec03)
+![Screenshot 2025-07-10 015430](https://github.com/user-attachments/assets/52a512c1-c9a5-4064-9ac4-c458d0e1ec03)
+
 *Normal distribution showing market stabilization*
 
 ---
 
 ### BAC Technical Analysis (2008)
-![BAC 30-day MA] ![Screenshot 2025-07-10 015430](https://github.com/user-attachments/assets/4c1dce48-b562-4739-b28a-f07905d1eba2)
+![Screenshot 2025-07-10 015430](https://github.com/user-attachments/assets/4c1dce48-b562-4739-b28a-f07905d1eba2)
+
 *30-day moving average vs price during crisis*
 
 ---
 
 ### Bank Correlation Matrix
-![Correlation Heatmap] ![Screenshot 2025-07-10 015835](https://github.com/user-attachments/assets/a6744e7c-ff87-44df-826a-d17e84da4d23)
+![Screenshot 2025-07-10 015835](https://github.com/user-attachments/assets/a6744e7c-ff87-44df-826a-d17e84da4d23)
+
 *Goldman Sachs (GS) and Morgan Stanley (MS) show 0.97 correlation*
 
 ## 🔍 Key Findings
