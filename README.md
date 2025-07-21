@@ -86,6 +86,6 @@ DS & ML Enthusiast
 ## ⚙️ Installation
 
 1. Clone the repo:
-```bash
+
 git clone https://github.com/safikasi/Bank-Stock-Analysis-Project.git
 cd Bank-Stock-Analysis
