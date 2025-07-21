@@ -88,4 +88,5 @@ DS & ML Enthusiast
 1. Clone the repo:
 
 git clone https://github.com/safikasi/Bank-Stock-Analysis-Project.git
+
 cd Bank-Stock-Analysis
